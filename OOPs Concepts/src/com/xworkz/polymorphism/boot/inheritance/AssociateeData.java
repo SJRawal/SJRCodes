@@ -2,12 +2,12 @@ package com.xworkz.polymorphism.boot.inheritance;
 
 import com.xworkz.polymorphism.dataCodes.inheritance.Phone;
 import com.xworkz.polymorphism.dataCodes.inheritance.Shirt;
-import com.xworkz.polymorphism.dataCodes.inheritance.Xworkz;
+import com.xworkz.polymorphism.dataCodes.inheritance.Xwork;
 
 public class AssociateeData {
 
 	public static void main(String[] args) {
-		Xworkz xworkz = new Xworkz();
+		Xwork xworkz = new Xwork();
 		xworkz.showXworkz();
 
 		Phone mobile = new Phone();

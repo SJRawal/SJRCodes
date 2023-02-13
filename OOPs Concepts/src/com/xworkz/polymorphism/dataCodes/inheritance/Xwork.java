@@ -1,6 +1,6 @@
 package com.xworkz.polymorphism.dataCodes.inheritance;
 
-public class Xworkz {
+public class Xwork {
 
 	public int trainees;
 	public String location;
