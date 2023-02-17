@@ -69,7 +69,7 @@ public class RotiData {
 		
 		System.out.println("\n Class Cast Exception showing \n ");
 		
-		//RagiRoti ragi1 = (RagiRoti)jower;
+		
 	}
 
 }
