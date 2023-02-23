@@ -43,4 +43,9 @@ public class Park {
 		}
 		return super.equals(obj);
 	}
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return super.toString();
+	}
 }
