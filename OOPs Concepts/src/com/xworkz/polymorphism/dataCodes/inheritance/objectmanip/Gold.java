@@ -4,7 +4,8 @@ public class Gold {
 	private String karat;
 	private double weight;
 	private double price;
-	private String type;
+	public String type;
+	public float getPrice;
 
 	public void setKarat(String karat) {
 		this.karat = karat;
