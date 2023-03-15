@@ -1,6 +1,0 @@
-package com.xworkz.application.dto.enumClass;
-
-public enum OsSupported {
-	JELLYBEAN, KITKAT, LOLLIPOP, MARSHMALLOW, NOUGAT, OREO, PIE, ANDROID10, ANDROID11, ANDROID12, ANDROID13, IOS10,
-	IOS11, IOS12, IOS13, IOS14, IOS15
-}
